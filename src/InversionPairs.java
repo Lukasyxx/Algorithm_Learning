@@ -1,4 +1,4 @@
-public class InversionPairs {
+public class InversionPairs { 
     private static long inversionCount = 0; // 用于计数逆序对的数量
 
     public static void main(String[] args) {
